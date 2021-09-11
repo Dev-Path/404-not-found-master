@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot]("assets/images/404.png" alt="screenshot")
+![screenshot]("assets/images/404.png")
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
@@ -48,7 +48,7 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [HTML](https://www.w3schools.com/html/default.asp
+- [HTML](https://www.w3schools.com/html/default.asp)
 - [CSS](https://www.w3schools.com/css/default.asp)
 
 ## Features
