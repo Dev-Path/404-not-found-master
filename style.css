@@ -10,7 +10,7 @@ main {
 
 li {
     list-style-type: none;
-    font-family: Inconsolata;
+    font-family: 'Inconsolata';
     font-style: normal;
     font-weight: bold;
     font-size: 24px;
@@ -29,7 +29,7 @@ img {
 
 
 h2 {
-    font-family: Space Mono;
+    font-family: 'Space Mono';
     font-style: normal;
     font-weight: bold;
     font-size: 64px;
@@ -39,7 +39,7 @@ h2 {
 }
 
 p {
-    font-family: Space Mono;
+    font-family: 'Space Mono';
     font-style: normal;
     font-weight: normal;
     font-size: 24px;
@@ -80,7 +80,7 @@ a {
     }
 
     h2 {
-        font-family: Space Mono;
+        font-family: 'Space Mono';
         font-style: normal;
         font-weight: bold;
         font-size: 48px;
@@ -90,7 +90,7 @@ a {
     }
 
     p {
-        font-family: Space Mono;
+        font-family: 'Space Mono';
         font-style: normal;
         font-weight: normal;
         font-size: 18px;
@@ -101,7 +101,7 @@ a {
     }
 
     ul li {
-        font-family: Inconsolata;
+        font-family: 'Inconsolata';
         font-style: normal;
         font-weight: bold;
         font-size: 24px;
