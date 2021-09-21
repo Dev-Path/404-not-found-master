@@ -38,7 +38,6 @@
 
 ![screenshot](assets/images/404.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - I learned how to take a design file and code it following specifications
 - How research for information on the to help you solve a particular problem
@@ -69,4 +68,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 - Website [patrick](https://patrickkyei.com)
 - GitHub [@PatrickKyei](https://github.com/PatrickKyei)
-- Twitter [@your-twitter](https://twitter.com/_patrickbaffour)
+- Twitter [_patrickbaffour](https://twitter.com/_patrickbaffour)
